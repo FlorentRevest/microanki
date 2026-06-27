@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MicroAnki</string>
+    <string name="accessibility_service_label">MicroAnki app monitor</string>
+    <string name="accessibility_service_description">Lets MicroAnki notice when you open one of your chosen apps (e.g. Instagram, YouTube) so it can show you a flashcard first. MicroAnki only reads which app is in the foreground; it never reads screen content.</string>
+</resources>
