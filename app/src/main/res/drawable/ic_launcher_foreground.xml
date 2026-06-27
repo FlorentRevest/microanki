@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- A flashcard with a star, centred in the adaptive icon safe zone -->
+    <group
+        android:scaleX="0.55"
+        android:scaleY="0.55"
+        android:pivotX="54"
+        android:pivotY="54">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M22,30 L86,30 A6,6 0 0 1 92,36 L92,72 A6,6 0 0 1 86,78 L22,78 A6,6 0 0 1 16,72 L16,36 A6,6 0 0 1 22,30 Z" />
+        <path
+            android:fillColor="#2962FF"
+            android:pathData="M54,40 L58.5,50.5 L70,51.5 L61.2,59.1 L63.9,70.3 L54,64.3 L44.1,70.3 L46.8,59.1 L38,51.5 L49.5,50.5 Z" />
+    </group>
+</vector>
